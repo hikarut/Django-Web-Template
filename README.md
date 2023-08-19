@@ -19,3 +19,5 @@ $ python project/manage.py runserver
 ```
 $ deactivate
 ```
+
+* アクセス：http://127.0.0.1:8000/
